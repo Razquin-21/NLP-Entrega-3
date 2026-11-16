@@ -30,5 +30,5 @@ COLS_META = ["domain", "source"]
 
 
 # ------------------------------------------------------------------------
-# 2. CARGA Y PARTICION UNICA (LOS IDICES SE COMPARTEN CON LA GRU Y CON JON)
+# 2. CARGA Y PARTICION UNICA (LOS INDICES SE COMPARTEN CON LA GRU Y CON JON)
 # -----------------------------------------------------------------------
