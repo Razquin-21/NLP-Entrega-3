@@ -12,8 +12,10 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
+# EL CODIGO QUE ESTE ESCRITO
+
 # -----------------
-# 1. CONFIGURACION
+# 1. CONFIGURACION  
 # -----------------
 RANDOM_STATE = 42
 np.random.seed(RANDOM_STATE)
